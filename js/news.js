@@ -100,6 +100,6 @@ const readAll=(modals)=>{
   `;
 
 }
-newsField();
+newsField('us');
 
 // newsField()
